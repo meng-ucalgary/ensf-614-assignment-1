@@ -1,10 +1,10 @@
 /*
-* File Name: lab1exe_A.c
-* Lab # and Assignment #: Lab 1 Exercise A
-* Lab section: B01
-* Completed by: Bhavyai Gupta
-* Submission Date: NA
-*/
+ * File Name: lab1exe_A.c
+ * Lab # and Assignment #: Lab 1 Exercise A
+ * Lab section: B01
+ * Completed by: Bhavyai Gupta
+ * Submission Date: NA
+ */
 
 #include <stdio.h>
 
