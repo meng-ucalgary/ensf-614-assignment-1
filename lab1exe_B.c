@@ -4,7 +4,7 @@
  * Lab # and Assignment #:  Lab 1 Exercise B
  * Lab section:             B01
  * Completed by:            Bhavyai Gupta
- * Submission Date:         NA
+ * Submission Date:         September 20, 2021
  */
 
 #include <stdio.h>
